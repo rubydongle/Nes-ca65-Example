@@ -25,3 +25,6 @@ Credit is not required, but attribution is always appreciated.
 Brad Smith
 
 http://rainwarrior.ca
+
+6502 指令集
+http://obelisk.me.uk/6502/reference.html
