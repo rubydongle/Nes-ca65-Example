@@ -14,6 +14,7 @@
 ;
 ; To use your own graphics, replace the two 4k tile banks provided.
 ; They are named "background.chr" and "sprite.chr".
+; background.chr和sprite.chr是图形文件，可以替换成自己的。
 ;
 ; The reset and nmi routines are provided as a simple working example of
 ; these things. Writing these from scratch is a more advanced topic, so they

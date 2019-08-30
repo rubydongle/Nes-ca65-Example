@@ -15,4 +15,4 @@ example.o : example.s
 	@echo $$?
 
 clean:
-	rm -f *.o example.nes example.map.txt example.labels.txt example.nes.ram.nl example.nes.0.nl example.nes.1.nl example.nes.dbg
+	rm -f *.deb *.o example.nes example.map.txt example.labels.txt example.nes.ram.nl example.nes.0.nl example.nes.1.nl example.nes.dbg
